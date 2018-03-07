@@ -1,0 +1,9 @@
+C:\vs2015\get_content\get_content\bin\Debug\get_content.exe.config
+C:\vs2015\get_content\get_content\bin\Debug\get_content.exe
+C:\vs2015\get_content\get_content\bin\Debug\get_content.pdb
+C:\vs2015\get_content\get_content\obj\Debug\get_content.csprojResolveAssemblyReference.cache
+C:\vs2015\get_content\get_content\obj\Debug\get_content.Properties.Resources.resources
+C:\vs2015\get_content\get_content\obj\Debug\get_content.csproj.GenerateResource.Cache
+C:\vs2015\get_content\get_content\obj\Debug\get_content.exe
+C:\vs2015\get_content\get_content\obj\Debug\get_content.pdb
+C:\vs2015\get_content\get_content\obj\Debug\get_content.form_job.resources
